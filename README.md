@@ -11,9 +11,11 @@ I'm passionate about **penetration testing, ethical hacking, and full-stack web 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📈 GitHub Stats
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra&layout=compact&theme=radical)
+## 📊 GitHub Stats:
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrainBinary&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrainBinary&layout=compact&theme=radical)
 
 ### 💻 Latest Projects
 - **Amazon Clone** - HTML, CSS, JavaScript Coming soon 🛒
