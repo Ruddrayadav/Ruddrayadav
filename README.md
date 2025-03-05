@@ -1,0 +1,28 @@
+## Hi there! 👋 I'm Rudra  
+
+### 🚀 Cybersecurity & Web Development Enthusiast
+I'm passionate about **penetration testing, ethical hacking, and full-stack web development**. Currently diving deep into **JavaScript, Linux security, and C++**, while working on exciting web and security projects.  
+
+### 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📈 GitHub Stats
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra&layout=compact&theme=radical)
+
+### 💻 Latest Projects
+- **Amazon Clone** - HTML, CSS, JavaScript Coming soon 🛒
+- **Tic Tac Toe Game - HTML,CSS , Javacript
+- **Netflix Clone** - Frontend Web Project 🎥
+- **Linux Security Labs** - Practicing Ethical Hacking 🔒
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-yadav-9a787b284/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rudray_05)
+
+⭐ **If you like my work, feel free to star my projects!** ⭐
