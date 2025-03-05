@@ -12,10 +12,11 @@ I'm passionate about **penetration testing, ethical hacking, and full-stack web 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrainBinary&show_icons=true&theme=radical)
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruddrayadav&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrainBinary&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddrayadav&layout=compact&theme=radical)
+
 
 ### 💻 Latest Projects
 - **Amazon Clone** - HTML, CSS, JavaScript Coming soon 🛒
