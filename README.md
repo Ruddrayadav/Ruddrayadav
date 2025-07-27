@@ -10,6 +10,8 @@ I'm passionate about **penetration testing, ethical hacking, and full-stack web 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
 
 ## 📊 GitHub Stats:
 ![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruddrayadav&show_icons=true&theme=radical)
