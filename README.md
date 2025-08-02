@@ -23,10 +23,10 @@ I'm passionate about **penetration testing, ethical hacking, and full-stack web 
 
 
 ### 💻 Latest Projects
-- **Amazon Clone** - HTML, CSS, JavaScript Coming soon 🛒
-- **Tic Tac Toe Game - HTML,CSS , Javacript
-- **Netflix Clone** - Frontend Web Project 🎥
-- **Linux Security Labs** - Practicing Ethical Hacking 🔒
+- **RudraFlix** - Netflix Like App using React js , tailwind  and API's 
+- **DynamicWebsite** - HTML5,CSS,Gsap animation's
+- **SecureMessaging-App** - Greate terminal based messaging app with encyrpted login and password used to secure user data 
+- **Linux Security Tools** - Linux and Ethical Hacking learning on progress 🔒
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-yadav-9a787b284/)
