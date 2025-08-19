@@ -1,7 +1,16 @@
 ## Hi there! 👋 I'm Rudra  
 
-### 🚀 Cybersecurity & Web Development Enthusiast
-I'm passionate about **penetration testing, ethical hacking, and full-stack web development**. Currently diving deep into **JavaScript, Linux security, and C++**, while working on exciting web and security projects.  
+### 🚀 Cybersecurity | AI | Web Development Enthusiast  
+
+Passionate about **penetration testing, ethical hacking, and building secure applications**.  
+Currently exploring the intersection of **AI (LangChain & LLMs), Linux security, and full-stack development**.  
+
+🔹 Focused on: Cybersecurity labs (THM/HTB), AI-powered agents.
+🔹 Building projects that combine **security + AI + web technologies**.  
+🔹 Always learning, sharing, and improving my craft.  
+
+💻 Tech Interests: Cybersecurity | Web Security | AI Agents | C++ | JavaScript | Linux
+
 
 ### 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
