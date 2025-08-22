@@ -32,6 +32,7 @@ Currently exploring the intersection of **AI (LangChain & LLMs), Linux security,
 
 
 ### 💻 Latest Projects
+- **Ai Resume Analyzer** - An Ai Web app that analyse your resume and gave u wording's
 - **RudraFlix** - Netflix Like App using React js , tailwind  and API's 
 - **DynamicWebsite** - HTML5,CSS,Gsap animation's
 - **SecureMessaging-App** - Greate terminal based messaging app with encyrpted login and password used to secure user data 
