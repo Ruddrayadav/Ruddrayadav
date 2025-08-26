@@ -23,12 +23,8 @@ Currently exploring the intersection of **AI (LangChain & LLMs), Linux security,
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
 ## 📊 GitHub Stats:
 ![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruddrayadav&show_icons=true&theme=radical)
-
-## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddrayadav&layout=compact&theme=radical)
 
 
 ### 💻 Latest Projects
