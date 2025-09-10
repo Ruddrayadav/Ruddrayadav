@@ -6,7 +6,9 @@ Passionate about **penetration testing, ethical hacking, and building secure app
 Currently exploring the intersection of **AI (LangChain & LLMs), Linux security, and full-stack development**.  
 
 🔹 Focused on: Cybersecurity labs (THM/HTB), AI-powered agents.
-🔹 Building projects that combine **security + AI + web technologies**.  
+
+🔹 Building projects that combine **security + AI + web technologies**. 
+
 🔹 Always learning, sharing, and improving my craft.  
 
 💻 Tech Interests: Cybersecurity | Web Security | AI Agents | C++ | JavaScript | Linux
