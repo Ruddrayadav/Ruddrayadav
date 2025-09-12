@@ -30,6 +30,7 @@ Currently exploring the intersection of **AI (LangChain & LLMs), Linux security,
 
 
 ### 💻 Latest Projects
+- **Legal Document Simplifier** - A Web app that gave u simplified version of your legal document's using vertex ai
 - **Ai Resume Analyzer** - An Ai Web app that analyse your resume and gave u wording's
 - **RudraFlix** - Netflix Like App using React js , tailwind  and API's 
 - **DynamicWebsite** - HTML5,CSS,Gsap animation's
