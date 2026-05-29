@@ -1,44 +1,57 @@
-## Hi there! 👋 I'm Rudra  
+#  Rudra Yadav
 
-### 🚀 Cybersecurity | AI | Web Development Enthusiast  
+### Architecting Deterministic AI Workflows & Production-Ready Backends.
 
-Passionate about **penetration testing, ethical hacking, and building secure applications**.  
-Currently exploring the intersection of **AI (LangChain & LLMs), Linux security, and full-stack development**.  
+> I am a 4th-semester BCA student specializing in **stateful AI orchestration** and **multi-agent systems**. I don't just write API wrappers; I build autonomous pipelines with deterministic feedback loops, custom RAG architectures, and scalable data infrastructure. 
 
-🔹 Focused on: Cybersecurity labs (THM/HTB), AI-powered agents.
+Currently actively seeking an **AI Engineering Internship** to help a fast-moving team ship intelligent, hallucination-free products.
 
-🔹 Building projects that combine **security + AI + web technologies**. 
+---
 
-🔹 Always learning, sharing, and improving my craft.  
+## 🛠️ Core Engineering Stack
 
-💻 Tech Interests: Cybersecurity | Web Security | AI Agents | C++ | JavaScript | Linux
+| Domain | Technologies |
+| :--- | :--- |
+| **AI Orchestration** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white) |
+| **Data & Vector Ops** | ![FAISS](https://img.shields.io/badge/FAISS-004A7C?style=flat&logo=meta&logoColor=white) ![Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) |
+| **Data Pipelines** | ![Yahoo Finance](https://img.shields.io/badge/Yahoo_Finance-720E9E?style=flat&logo=yahoo&logoColor=white) ![SerpAPI](https://img.shields.io/badge/SerpAPI-4285F4?style=flat&logo=google&logoColor=white) |
+| **Frontend & Infra** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
+*(Note: I also maintain a strong foundational background in React, Tailwind, and Web Security, allowing me to bridge complex AI backends with secure, user-facing frontends).*
 
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
+## 🚀 Featured Production Builds
 
-## 📊 GitHub Stats:
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruddrayadav&show_icons=true&theme=radical)
+### 📈 [Autonomous AI Equity Analyst](https://github.com/Ruddrayadav/autonomous-equity-analyst)
+**Live App:** https://autonomous-equity-analyst-dur8wbrzizh5s6t6ikvqre.streamlit.app | **Architecture:** Multi-Agent Directed Acyclic Graph (DAG)
+*   **The System:** Engineered a stateful financial research pipeline using **LangGraph**.
+*   **The Logic:** Routes live market data (yfinance/SerpAPI) through specialized AI nodes (Data Prep, Financial Analysis, Qualitative). 
+*   **The Impact:** Implemented a strict **Reviewer Agent** using Pydantic schemas to evaluate the LLM state. If data is hallucinated or missing (`None`), it triggers an autonomous self-correcting loop, guaranteeing 100% deterministic metric reporting.
 
+### 🧠 Native RAG Architecture Engine
+**Architecture:** Semantic Search & Vector Embeddings
+*   **The System:** Built a manual Retrieval-Augmented Generation pipeline from scratch without relying on high-level, abstracted wrappers.
+*   **The Logic:** Utilized **FAISS** and **Sentence Transformers** for optimized document chunking, embedding generation, and semantic similarity search. 
+*   **The Impact:** Successfully grounded Google's Gemini SDK in custom context, eliminating generic responses and allowing the LLM to query highly specific, localized datasets.
 
-### 💻 Latest Projects
-- **Legal Document Simplifier** - A Web app that gave u simplified version of your legal document's using vertex ai
-- **Ai Resume Analyzer** - An Ai Web app that analyse your resume and gave u wording's
-- **RudraFlix** - Netflix Like App using React js , tailwind  and API's 
-- **DynamicWebsite** - HTML5,CSS,Gsap animation's
-- **SecureMessaging-App** - Greate terminal based messaging app with encyrpted login and password used to secure user data 
-- **Linux Security Tools** - Linux and Ethical Hacking learning on progress 🔒
+### 📊 Automated Market Intelligence Backend
+**Architecture:** Data Aggregation & Scheduled Execution
+*   **The System:** A Python-based automated data pipeline tailored for market sector analysis.
+*   **The Logic:** Aggregates unstructured daily financial data, processes it via LLMs to extract core insights, and autonomously compiles it into digestible formats.
+*   **The Impact:** Streamlines hundreds of data points into a single, automated daily brief.
 
-### 📫 Connect With Me
+---
+
+## ⚡ Beyond the Code: Execution & Leadership
+Great engineering requires great execution. Beyond the IDE, I spearheaded the complete end-to-end logistics and digital infrastructure (including custom registration systems) for a large-scale regional marathon routing from Botanical Garden to Pari Chowk. I bring this same level of rigorous project management and real-world execution to every codebase I touch.
+
+---
+
+## 📬 Let's Build Together
+**Looking for an intern who can ship real infrastructure? Let's talk.**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-yadav-9a787b284/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rudray_05)
 
-⭐ **If you like my work, feel free to star my projects!** ⭐
