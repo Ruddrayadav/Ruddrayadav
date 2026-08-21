@@ -44,11 +44,6 @@ Currently actively seeking an **AI Engineering Internship** to help a fast-movin
 
 ---
 
-## ⚡ Beyond the Code: Execution & Leadership
-Great engineering requires great execution. Beyond the IDE, I spearheaded the complete end-to-end logistics and digital infrastructure (including custom registration systems) for a large-scale regional marathon routing from Botanical Garden to Pari Chowk. I bring this same level of rigorous project management and real-world execution to every codebase I touch.
-
----
-
 ## 📬 Let's Build Together
 **Looking for an intern who can ship real infrastructure? Let's talk.**
 
