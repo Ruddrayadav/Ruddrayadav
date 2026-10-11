@@ -53,7 +53,7 @@ Currently seeking an **AI / ML Engineering Internship** where I can contribute t
 
 ## 🎓 Education & Learning
 
-*   **BCA (Computer Networking & Cyber Security)**, Galgotias University, 2023 – 2027 (currently 3rd year)
+*   **BCA (Computer Networking & Cyber Security)**, Galgotias University, 2024 – 2027 (currently 3rd year)
 *   Oracle Certified Foundations Associate · Agentic AI (Oracle) · Introduction to Generative AI (Simplilearn)
 *   Gen AI Exchange Hackathon 2025 (Google Cloud) · 5-Day AI Agents Intensive with Google (Kaggle) · AI Voice Agents Challenge (Murf AI)
 
